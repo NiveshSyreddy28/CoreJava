@@ -1,0 +1,40 @@
+Radius: 10.0
+Area: 10.0
+Circumference: 62.83185307179586
+
+Radius: 20.0
+Area: 20.0
+Circumference: 125.66370614359172
+
+Radius: 2.5
+Area: 2.5
+Circumference: 15.707963267948966
+
+Radius: 3.5
+Area: 3.5
+Circumference: 21.991148575128552
+
+Radius: 4.6
+Area: 4.6
+Circumference: 28.902652413026093
+
+Radius: 6.4
+Area: 6.4
+Circumference: 40.21238596594935
+
+Radius: 8.2
+Area: 8.2
+Circumference: 51.5221195188726
+
+Radius: 2.8
+Area: 2.8
+Circumference: 17.59291886010284
+
+Radius: 7.5
+Area: 7.5
+Circumference: 47.12388980384689
+
+Radius: 9.1
+Area: 9.1
+Circumference: 57.17698629533423
+
